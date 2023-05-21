@@ -16,7 +16,7 @@ clients_ready = False
 queue = 0
 
 # Ip adress and port of the server
-ip = '192.168.158.117'
+ip = 'add your ip here'
 port = 5555
 
 # Start the server
