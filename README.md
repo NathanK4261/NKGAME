@@ -17,7 +17,7 @@ NKGAME can create randomly generated terrains insanely fast.
 
 ![giphy2](https://github.com/NathanK4261/NKGAME/assets/78992074/e4570272-3a85-4b21-a4a2-f7683bdda055)
 
-In this example, we see a randomly generated terrain. The player looks like he is moving across the terrain since the camera only shows what is surrounding the playerm and keeps the player in the middle of the screen.
+In this example, we see a randomly generated terrain. The player looks like he is moving across the terrain since the camera only shows what is surrounding the player and keeps the player in the middle of the screen.
 
 NKGAME also has 2 modules called NKNET and NKSERVER. They are simplified version of the sockets python module they allow for a server and connection to be made more easilly, but I plan to add the ability to send serialized data and a more robust protocoll for the NKSERVER and NKNET modules so they are less prone to errors in buffer size and data loss.
 
