@@ -28,7 +28,7 @@ ground_blocks = []
 rects = []
 
 # Server variables
-ip = '192.168.158.117'
+ip = 'add your ip here'
 port = 5555
 local_id = ''
 
